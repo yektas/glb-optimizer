@@ -1,5 +1,7 @@
 # GLB Optimizer
 
+**[Live Demo →](https://glb-optimizer-rho.vercel.app/)**
+
 Standalone local workbench for tuning GLB optimization settings and comparing the output.
 
 ## Run
